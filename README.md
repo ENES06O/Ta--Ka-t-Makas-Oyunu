@@ -1,2 +1,2 @@
 # Tas-Kagit-Makas-Oyunu
-Taş Kagit makas oyunu
+Tas Kagit makas oyunu
