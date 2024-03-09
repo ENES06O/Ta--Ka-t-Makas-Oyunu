@@ -1,2 +1,2 @@
-# Taş-Ka-t-Makas-Oyunu
-Taş kağıt makas oyunu
+# Tas-Kagit-Makas-Oyunu
+Taş Kagit makas oyunu
